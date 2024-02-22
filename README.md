@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software Tester from India</h3>
 
 <p align="center">
-  <img src="https://github.com/jafar-sudo/jafar-sudo/blob/main/WhatsApp%20Image%202024-02-22%20at%2022.02.28.jpeg" alt="Jafar Shathik Saleem" width="200"/>
+  <img src="https://github.com/jafar-sudo/jafar-sudo/blob/main/Profile.jpeg" alt="Jafar Shathik Saleem" width="200"/>
 </p>
 
 - 🔭 I’m currently working on **Compliance Project**
