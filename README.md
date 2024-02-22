@@ -31,6 +31,5 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jafar-sudo" alt="jafar-sudo" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jafar-sudo&show_icons=true&locale=en&layout=compact" alt="jafar-sudo" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jafar-sudo&show_icons=true&locale=en" alt="jafar-sudo" /></p>
