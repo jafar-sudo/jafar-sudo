@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **jafar.shathik.saleem@gmail.com**
   
-- 📄 Know about my experiences [CV](https://www.linkedin.com/in/jafar-shathik-saleem-144921112/overlay/1708619296190/single-media-viewer/?profileId=ACoAABxBtYQB6qevDA2xPOAayyf6xQWA4u-GSOo)
+- 📄 Know about my experiences [CV](https://1drv.ms/b/s!AkXzbRjWculggn_D08J4kFRws1QM?e=WqrLQg)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
