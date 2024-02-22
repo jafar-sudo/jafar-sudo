@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Jafar Shathik Saleem</h1>
 <h3 align="center">A passionate Software Tester from India</h3>
 
+<p align="center">
+  <img src="https://your-profile-picture-url.jpg" alt="Jafar Shathik Saleem" width="200"/>
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jafar-sudo&label=Profile%20views&color=0e75b6&style=flat" alt="jafar-sudo" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jafar-sudo" alt="jafar-sudo" /></a> </p>
