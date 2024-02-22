@@ -16,6 +16,8 @@
 - 💬 Ask me about **Manual Testing**
 
 - 📫 How to reach me **jafar.shathik.saleem@gmail.com**
+  
+- 📄 Know about my experiences [CV](https://www.linkedin.com/in/jafar-shathik-saleem-144921112/overlay/1708619296190/single-media-viewer/?profileId=ACoAABxBtYQB6qevDA2xPOAayyf6xQWA4u-GSOo)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
