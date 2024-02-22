@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jafar Shathik Saleem</h1>
+<h1 align="center">Hi World👋, I'm Jafar Shathik Saleem</h1>
 <h3 align="center">A passionate Software Tester from India</h3>
 
 <p align="center">
@@ -15,7 +15,7 @@
 
 - 👯 I’m looking to collaborate on **Automation Testing and API**
 
-- 🤝 I’m looking for help with **Automation**
+- 🤝 I’m looking for help with **Automation Software**
 
 - 💬 Ask me about **Manual Testing**
 
