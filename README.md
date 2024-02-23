@@ -5,7 +5,9 @@
   <img src="https://github.com/jafar-sudo/jafar-sudo/blob/main/Profile.jpeg" alt="Jafar Shathik Saleem" width="200"/>
 </p>
 
-- 🔭 I’m currently working on **Compliance Project**
+- 👨🏻‍💻I’m currently working in **Paktolus Solution**
+
+- 💼 Having professional experience **5 years**
 
 - 🌱 I’m currently learning **API Testing**
 
@@ -14,6 +16,8 @@
 - 🤝 I’m looking for help with **Automation Software**
 
 - 💬 Ask me about **Manual Testing**
+
+- 📱 Started Developing an app **LPT** **(Local Prayer Timing)**
 
 - 📫 How to reach me **jafar.shathik.saleem@gmail.com**
   
