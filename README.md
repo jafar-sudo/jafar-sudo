@@ -41,9 +41,11 @@
   <img src="https://github.com/jafar-sudo/jafar-sudo/blob/main/images/SQL.png" alt="SQL Developer" width="40"/>
 </p>  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jafar-sudo&label=Profile%20views&color=0e75b6&style=flat" alt="jafar-sudo" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jafar-sudo" alt="jafar-sudo" /></a> </p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jafar-sudo&show_icons=true&locale=en" alt="jafar-sudo" /> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jafar-sudo&show_icons=true&locale=en" alt="jafar-sudo" /></p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=jafar-sudo&label=Profile%20views&color=0e75b6&style=flat" alt="jafar-sudo" /> </p>
+
