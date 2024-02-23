@@ -29,12 +29,12 @@
 
 <h3 align="left">Testing Tools:</h3>
 <p align="left">
-  <img src="https://github.com/jafar-sudo/jafar-sudo/blob/main/images/Putty.png" alt="Putty" width="40" />
-  <img src="https://github.com/jafar-sudo/jafar-sudo/blob/main/Jira.png" alt="Jira" width="40" />
+  <img src="https://github.com/jafar-sudo/jafar-sudo/blob/main/images/Putty.png" alt="Putty" width="40"/>
+  <img src="https://github.com/jafar-sudo/jafar-sudo/blob/main/Jira.png" alt="Jira" width="40"/>
   <img src="https://github.com/jafar-sudo/jafar-sudo/blob/main/images/IBM.png" alt="IBM Cognos" width="100" height="60"/>
-  <img src="https://github.com/jafar-sudo/jafar-sudo/blob/main/images/eclipse.png" alt="Eclipse IDE" width="40" />
-  <img src="https://github.com/jafar-sudo/jafar-sudo/blob/main/images/excel.png" alt="Excel" width="40" />
-  <img src="https://github.com/jafar-sudo/jafar-sudo/blob/main/images/SQL.png" alt="SQL Developer" width="40" />
+  <img src="https://github.com/jafar-sudo/jafar-sudo/blob/main/images/eclipse.png" alt="Eclipse IDE" width="40"/>
+  <img src="https://github.com/jafar-sudo/jafar-sudo/blob/main/images/excel.png" alt="Excel" width="40"/>
+  <img src="https://github.com/jafar-sudo/jafar-sudo/blob/main/images/SQL.png" alt="SQL Developer" width="40"/>
 </p>  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jafar-sudo&label=Profile%20views&color=0e75b6&style=flat" alt="jafar-sudo" /> </p>
