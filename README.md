@@ -21,7 +21,8 @@
 
 - 📫 How to reach me **jafar.shathik.saleem@gmail.com**
   
-- 📄 Know about my experiences [CV](https://1drv.ms/b/s!AkXzbRjWculggn_D08J4kFRws1QM?e=WqrLQg)
+- 📄 Know about my experiences [CV](https://github.com/user-attachments/files/21853264/Jafar_Resume_CV.1.docx)
+)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
