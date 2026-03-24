@@ -7,21 +7,22 @@
 
 - 👨🏻‍💻I’m currently working in **Paktolus Solution**
 
-- 💼 Having professional experience **5 years**
+- 💼 Having professional experience **5+ years**
 
-- 🌱 I’m currently learning **API Testing**
+- 🌱 I’m currently learning **AI Testing and Prompt Engineering**
 
-- 👯 I’m looking to collaborate on **Automation Testing and API**
+- 👯 I’m looking to collaborate on **Manual and Automation Testing using Cypress and Javascript**
 
 - 🤝 I’m looking for help with **Automation Software**
 
-- 💬 Ask me about **Manual Testing**
+- 💬 Ask me about **Manual and Automation Testing**
 
-- 📱 Started Developing an app **LPT** **(Local Prayer Timing)**
+- 📱 Started Developing an app **LPT** **(Local Prayer Timing)** - Still Inprogress
 
 - 📫 How to reach me **jafar.shathik.saleem@gmail.com**
   
-- 📄 Know about my experiences [CV](https://github.com/user-attachments/files/21853264/Jafar_Resume_CV.1.docx)
+- 📄 Know about my experiences [JAFARSHATHIKSALEEM](https://github.com/user-attachments/files/26207864/JAFARSHATHIKSALEEM_Resume.docx)
+
 
 
 <h3 align="left">Connect with me:</h3>
